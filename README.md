@@ -1,4 +1,4 @@
-### (My website)[https://defaultbox.netlify.app]
+### [My website](https://defaultbox.netlify.app)
 
 ## 🧞 Commands
 
